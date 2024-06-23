@@ -1,8 +1,4 @@
-# React + Vite
+#Foodie Home UI: Made with Tailwind Css and React.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![SS](https://github.com/ujjaval-parmar/UI-Tailwind-Foodie/assets/154329143/68534ca3-c703-4483-9f37-5f1bd62570ac)
